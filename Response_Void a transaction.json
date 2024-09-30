@@ -1,0 +1,35 @@
+{
+	"details": {
+		"acquirerBank": "IRIS CF",
+		"saleTicketNumber": "282756020057258290",
+		"amount": {
+			"subtotalIva0": 30000,
+			"ice": 0,
+			"currency": "COP",
+			"iva": 0,
+			"subtotalIva": 0
+		},
+		"approvalCode": "000000",
+		"approvedTransactionAmount": 30000,
+		"binInfo": {
+			"bank": "Banco de la Produccion S.A. (PRODUBANCO)",
+			"binCard": "545195",
+			"lastFourDigits": "5480",
+			"type": "credit"
+		},
+		"cardHolderName": "Jose Perez",
+		"created": 1727665782000,
+		"merchantId": "20000000102078720000",
+		"merchantName": "KEVIN SAS Branch Colombia",
+		"paymentBrand": "Mastercard",
+		"processorBankName": "0032~BANCO INTERNACIONAL",
+		"requestAmount": 30000,
+		"responseCode": "000",
+		"responseText": "Transacción aprobada",
+		"transactionId": "1727665782517884952",
+		"transactionStatus": "INITIALIZED",
+		"transactionType": "VOID"
+	},
+	"ticketNumber": "661727665782551250",
+	"transactionReference": "9132742f-b131-443f-beef-103e65eec25d"
+}

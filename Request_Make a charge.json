@@ -1,0 +1,61 @@
+{
+	"token": "dec050bcc367447b8b7c133fc329f05e",
+	"amount": {
+		"subtotalIva": 0,
+		"subtotalIva0": 30000,
+		"ice": 0,
+		"iva": 0,
+		"currency": "COP"
+	},
+	"months": 3,
+	"metadata": {
+		"referencia": "987654"
+	},
+	"contactDetails": {
+		"documentType": "CC",
+		"documentNumber": "1234567890",
+		"email": "user@example.com",
+		"firstName": "John",
+		"lastName": "Doe",
+		"phoneNumber": "+593912345678"
+	},
+	"orderDetails": {
+		"siteDomain": "example.com",
+		"shippingDetails": {
+			"name": "John Doe",
+			"phone": "+593912345678",
+			"addres": "Eloy Alfaro 139 y Catalina Aldaz",
+			"city": "Cartagena",
+			"region": "Bolivar",
+			"country": "Colombia"
+		},
+		"billingDetails": {
+			"name": "John Doe",
+			"phone": "+593912345678",
+			"address1": "Eloy Alfaro 139 y Catalina Aldaz",
+			"addres2": "Eloy Alfaro 139 y Catalina Aldaz",
+			"city": "Cartagena",
+			"region": "Bolivar",
+			"country": "Colombia"
+		}
+	},
+	"productDetails": {
+		"product": [
+			{
+				"id": "198952AB",
+				"title": "eBook Digital Services",
+				"price": 15000,
+				"sku": "10101042",
+				"quantity": 1
+			},
+			{
+				"id": "198953AB",
+				"title": "eBook Virtual Selling",
+				"price": 15000,
+				"sku": "004834GQ",
+				"quantity": 1
+			}
+		]
+	},
+	"fullResponse": "v2"
+}

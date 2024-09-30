@@ -1,0 +1,11 @@
+{
+	"card": {
+		"name": "Jose Perez",
+		"number": "5451951574925480",
+		"expiryMonth": "05",
+		"expiryYear": "28",
+		"cvv": "123"
+	},
+	"totalAmount": 30000,
+	"currency": "COP"
+}
